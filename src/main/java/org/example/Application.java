@@ -6,6 +6,7 @@ public class Application {
 
         System.out.println("master 생성함");
         System.out.println("featureB 생성함");
+        System.out.println("featureC 생성함");
 
     }
 
